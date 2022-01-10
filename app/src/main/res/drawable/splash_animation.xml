@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/animation_list_splash"
+    android:oneshot="false">
+    <item
+        android:drawable="@drawable/hawkrlogo"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/mcdonalds"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/starbucks"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/pizzahut"
+        android:duration="250" />
+</animation-list>
